@@ -1,6 +1,8 @@
-# splash-template
+# Nuxt Splash Page Template
 
 > Template for CMS splash pages
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/021e609c-7518-4e5a-8d62-f32265ee285e/deploy-status)](https://app.netlify.com/sites/condescending-stonebraker-546f75/deploys)
 
 ## Build Setup
 
